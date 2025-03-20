@@ -1,2 +1,3 @@
 # Portfolio-Johann-Huber
-Simple web portfolio made with HTML, CSS and JavaScript
+Simple responsive web portfolio made with HTML, CSS and JavaScript
+Portfolio responsivo feito em HTML, CSS e JavaScript
